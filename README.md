@@ -295,7 +295,7 @@
 
 ### Meeting Log
 
-- [Meeting Log]([https://docs.google.com/presentation/d/1cHfb_lUnwTv2N0KXznXokDiXKVmHmT4JePSsrKm-LFI/edit?usp=sharing](https://quickest-asterisk-75d.notion.site/d2f34ff6d4d2415a905b9bd781f6a549?v=49d734caa9ce4a51b480219e5b99ba04&pvs=4))
+- [Meeting Log](https://quickest-asterisk-75d.notion.site/d2f34ff6d4d2415a905b9bd781f6a549?v=49d734caa9ce4a51b480219e5b99ba04&pvs=4)
 
 ### Reference
 
