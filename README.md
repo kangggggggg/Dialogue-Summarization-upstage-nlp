@@ -123,7 +123,7 @@
 
 **김하연**
 
-- Improvement of Dialogue Summarization Using Keyword Extractor 참고, 키워드 기반 생성 요약 진행
+- 유총재(2023). Improvement of Dialogue Summarization Using Keyword Extractor 참고, 키워드 기반 생성 요약 진행
 ![image](https://github.com/UpstageAILab/upstage-nlp-summarization-nlp4/assets/106041730/616194aa-4391-40d2-a70f-08bb74873ca7)
 
 - pretrained model : gogamza/kobart-summarization
