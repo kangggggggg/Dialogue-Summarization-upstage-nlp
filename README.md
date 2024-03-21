@@ -121,6 +121,17 @@
 
 - 최종 결과: `final_result` => 42.8141, `rouge2` => 0.3260,  `rougeL` => 0.4325
 
+**김하연**
+
+- Improvement of Dialogue Summarization Using Keyword Extractor 참고, 키워드 기반 생성 요약 진행
+![image](https://github.com/UpstageAILab/upstage-nlp-summarization-nlp4/assets/106041730/616194aa-4391-40d2-a70f-08bb74873ca7)
+
+- pretrained model : gogamza/kobart-summarization
+
+- Dialogue, Topic을 학습시킨 모델로 Test Topic 생성, Dialogue, Topic, Summary를 학습시킨 모델로 Test Summary 생성
+  
+  - 최종 결과: `final_result` => 41.8308, `rouge1` => 0.5135, `rouge2` => 0.3181,  `rougeL` => 0.4233
+
 ## 5. Result
 
 ### Leader Board
