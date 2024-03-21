@@ -293,6 +293,10 @@
 
 - [[패스트캠퍼스] Upstage AI Lab 1기_4조_NLP_경진대회 발표자료 - Google Slides](https://docs.google.com/presentation/d/1cHfb_lUnwTv2N0KXznXokDiXKVmHmT4JePSsrKm-LFI/edit?usp=sharing)
 
+### Meeting Log
+
+- [Meeting Log]([https://docs.google.com/presentation/d/1cHfb_lUnwTv2N0KXznXokDiXKVmHmT4JePSsrKm-LFI/edit?usp=sharing](https://quickest-asterisk-75d.notion.site/d2f34ff6d4d2415a905b9bd781f6a549?v=49d734caa9ce4a51b480219e5b99ba04&pvs=4))
+
 ### Reference
 
 - [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer)
