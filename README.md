@@ -225,7 +225,7 @@
       generation_max_length: 200  
       per_device_train_batch_size: 6  
       -> 점수 상승, LB: 43.2997
-  - 가설4: batch size를 늘리거나 gradient accumulation steps를 늘려 메모리 효율적인 방식으로 더 큰 배치 크기로 학습할 수 있도록 하면 수렴 속도가 향상될 것  
+  - 가설5: batch size를 늘리거나 gradient accumulation steps를 늘려 메모리 효율적인 방식으로 더 큰 배치 크기로 학습할 수 있도록 하면 수렴 속도가 향상될 것  
     - Model: noahkim/KoT5_news_summarization  
       encoder_max_len: 1000  
       decoder_max_len: 200  
@@ -239,7 +239,7 @@
       per_device_train_batch_size: 7  
       gradient_accumulation_steps: 4  
       -> 점수 하락, LB: 42.4952
-  - 가설5: 더 복잡한 t5 기반 사전 학습 모델을 사용하면 성능이 향상될 것  
+  - 가설6: 더 강력한 t5 모델인 t5-large 기반 사전 학습 모델을 사용하면 성능이 향상될 것  
     - Model: lcw99/t5-large-korean-text-summary  
       encoder_max_len: 1000  
       decoder_max_len: 200  
