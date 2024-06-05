@@ -47,6 +47,8 @@
 │   └── optuna_hsk.ipynb
 ├── seongjun
 │   └── t501_lora_inference.ipynb
+├── seunghyun
+│   └── kobert.ipynb
 └── soyoung
     └── baseline_kot5.ipynb
 ```
